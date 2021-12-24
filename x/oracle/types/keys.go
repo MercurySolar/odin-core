@@ -8,6 +8,9 @@ const (
 	// ModuleName is the name of the module.
 	ModuleName = "oracle"
 
+	// ModuleVersion defines the current module version
+        ModuleVersion = 1
+
 	// Version defines the current version the IBC oracle module supports
 	// TODO: Using our new version for oracle packet (new ics?)
 	Version = "ics20-1"

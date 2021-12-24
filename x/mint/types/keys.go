@@ -4,6 +4,9 @@ const (
 	// ModuleName
 	ModuleName = "mint"
 
+	// ModuleVersion defines the current module version
+        ModuleVersion = 1
+
 	// StoreKey is the default store key for mint
 	StoreKey = ModuleName
 
